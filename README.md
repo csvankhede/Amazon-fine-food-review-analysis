@@ -1,4 +1,6 @@
 # Amazon fine food review analysis
+![amazon fine food review](https://user-images.githubusercontent.com/25454660/62773106-ee88b500-babe-11e9-93f9-2206c9985e9a.jpg)
+
 This repository is about appying different machine learning techniques on amazon food review dataset.
 
 Below are some data reduction, classification and regression techniques applied on amazon fine food review dataset.
